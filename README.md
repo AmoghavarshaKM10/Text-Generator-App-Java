@@ -24,7 +24,6 @@ As it is shown in the GIF above, you can use it as a web application. All you ne
 
 #### How to run web application:
 1- Run backend server on your localhost following the instruction here: 
-** Note that if your server is not running on ```http://localhost:8080```, you need to set the new address in the frontend global variables.
 
 ### Only API 
 After [running backend server on localhost] you can use the backend server as a general API and send request to it from other clients, such as Postman or your custom web client.
