@@ -9,8 +9,8 @@ This page gives a high-level undestanding of the app and how to use it.
 
 
 ## How to use this app
-There are three ways to use this app:
-### Web Application (frontend + backend)
+
+### Web Application (backend)
 
 As it is shown in the GIF above, you can use it as a web application. All you need to do is to enter a story (and its' name), and tune three hyperparameters:
 
